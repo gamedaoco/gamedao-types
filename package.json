@@ -1,7 +1,7 @@
 {
 	"name": "@gamedao/types",
-	"description": "Type defitinitons for GameDAO",
-	"version": "0.0.2",
+	"version": "0.0.3",
+	"description": "Type definitons for GameDAO Protocol",
 	"license": "BSD-4-Clause",
 	"repository": "https://github.com/gamedaoco/gamedao-types",
 	"main": "./lib/index.js",
@@ -19,7 +19,7 @@
 		"access": "public"
 	},
 	"bugs": "https://github.com/gamedaoco/gamedao-types/issues",
-	"homepage": "https://github.com/gamedaoco/gamedao-types#readme",
+	"homepage": "https://gamedao.co",
 	"devDependencies": {
 		"@commitlint/cli": "^13.1.0",
 		"@commitlint/config-conventional": "^13.1.0",
